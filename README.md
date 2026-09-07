@@ -4,7 +4,7 @@ Aplicação desenvolvida em Python com foco em automação comercial e gestão d
 
 ---
 
-## 🚀 Funcionalidades da Aplicação
+## Funcionalidades da Aplicação
 
 - **Orientação a Objetos (POO):** Classes estruturadas (`Imovel` e `ContratoLocacao`) para modularização e aplicação das regras de negócio.
 - **Regras de Precificação Customizadas:**
@@ -16,7 +16,7 @@ Aplicação desenvolvida em Python com foco em automação comercial e gestão d
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **Python 3.x** (Linguagem principal)
 - **Módulo `csv`** (Manipulação de planilhas)
@@ -24,7 +24,7 @@ Aplicação desenvolvida em Python com foco em automação comercial e gestão d
 
 ---
 
-## ⚙️ Como Executar o Projeto
+## Como Executar o Projeto
 
 1. Certifique-se de ter o Python instalado em sua máquina.
 2. Clone este repositório ou baixe o arquivo `orcamento_imobiliaria.py`.
